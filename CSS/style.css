@@ -6,16 +6,16 @@
     margin-right: 160px;
 }
 
-.inlineBlock{
+/* .inlineBlock{
     display: inline-block;
     vertical-align: top;
     padding: 10px 24px;
     font-family: 'Martian Mono', monospace;
     font-size: 19px;
-}
+} */
 
 
-/* .inlineBlock{
+.inlineBlock{
     display: flex;
     flex-direction: row;
     padding-right: 8px;
@@ -25,7 +25,7 @@
     font-family: 'Martian Mono', monospace;
     font-size: 19px;
    
-} */
+}
 
 .hamburger{
     display:none;
@@ -336,7 +336,7 @@ p{
     }
 }
 
-@media only screen and (max-width: 900px ) {
+@media only screen and (max-width: 1200px ) {
     .nav-menu{
         display:none;
     }
