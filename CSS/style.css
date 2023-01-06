@@ -87,17 +87,26 @@ nav {
     margin-left: 80px;
     margin-right: 80px;
 }
+
+.meTitle{
+    background-color: #59CE9C;
+   line-height: 0px;
+    display: inline-block;
+
+}
+
+
 h1{
     font-family: 'Martian Mono', monospace;
     font-size: 48px ;
-    text-align: center;
+ 
 }
 
 h2{
     font-family: 'Martian Mono', monospace;
     font-size: 32px ;
-    text-align: center;
-    margin-top: 96px;
+    margin-top: 104px;
+    scroll-margin-left: 100px;
 }
 
 h3{font-family: 'Lato', sans-serif;
@@ -111,7 +120,7 @@ p{
     margin-top: 5%;
     letter-spacing: 1px;
    line-height: 180%;
-   text-align: center;
+
 }
 
 .myPortrait{
